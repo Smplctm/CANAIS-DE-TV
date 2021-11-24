@@ -52,63 +52,21 @@ https://s9.pandafiles.com:183/d/6m3tpn6o26kwoyapkwf2eougm3k6blg2lzawupe2ochwoo3w
 #EXTINF:-1 tvg-logo="https://vizer.tv/content/series/posterPt/342/4810.webp" group-title="SÉRIES",The Boys S01E08
 https://s9.pandafiles.com:183/d/6m3tpn6o26kwoyapkwf2eougm3k6blg2lzawupe2ochwoo3w2pmicdq54fvtzk6ogqzwhq44/video.mp4
 
-#EXTINF:-1 tvg-logo="https://vizer.tv/content/series/posterPt/342/4810.webp" group-title="SÉRIES",THE BOYS TEMP1°
 
-#EXTINF:-1 tvg-logo="https://vizer.tv/content/series/posterPt/342/4810.webp" group-title="SÉRIES",THE BOYS TEMP1
-#EXTINF:-1 tvg-logo="https://vizer.tv/content/series/posterPt/342/4810.webp" group-title="SÉRIES",THE BOYS TEMP1°
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/kkTDZCNh48q9VKGz8" group-title="CANAIS PLUTO",Pluto TV Anime Ação
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/604b79c558393100078faeef/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=bc088b0f-e54e-4109-b20f-b27e98d7ed92&deviceVersion=81.0.4044&appVersion=5.106.0-f3e2ac48d1dbe8189dc784777108b725b4be6be2&deviceType=web&deviceMake=chrome&sid=0874e6e6-4cd2-11ec-aa31-0242ac110003&advertisingId=&deviceLat=-2.444&deviceLon=-54.7146&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI2YTY3YjhjLWJkZDEtNGEwMC1hMWZhLWE4MTU3NTY5YTI0ZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwODc0ZTZlNi00Y2QyLTExZWMtYWEzMS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjEzOC45NC4zNy4yMzkiLCJjaXR5IjoiU2FudGFyw6ltIiwicG9zdGFsQ29kZSI6IiIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0yLjQ0NCwiZGV2aWNlTG9uIjotNTQuNzE0NiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiODEuMC40MDQ0IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNi4wLWYzZTJhYzQ4ZDFkYmU4MTg5ZGM3ODQ3NzcxMDhiNzI1YjRiZTZiZTIiLCJjbGllbnRJRCI6ImJjMDg4YjBmLWU1NGUtNDEwOS1iMjBmLWIyN2U5OGQ3ZWQ5MiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL1NhbnRhcmVtIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTYzNzc1MTM1MSwianRpIjoiZmU0YWE3ZjEtN2I2Yy00OTBkLTg0YTYtNTMzYTA2MWFjMGNhIiwiaWF0IjoxNjM3NzIyNTUxLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6QlI6WW1Nd09EaGlNR1l0WlRVMFpTMDBNVEE1TFdJeU1HWXRZakkzWlRrNFpEZGxaRGt5In0.ywGElb_Kl0yeItowrBasMUS15pbb7MQXnIBduCRz0kg
 
-#EXTINF:-1 tvg-logo="https://vizer.tv/content/series/posterPt/342/4810.webp" group-title="SÉRIES",THE BOYS TEMP1
-#EXTINF:-1 tvg-logo="https://vizer.tv/content/series/posterPt/342/4810.webp" group-title="SÉRIES",THE BOYS TEMP1°
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/kkTDZCNh48q9VKGz8" group-title="CANAIS PLUTO",As Aventuras de Jackie Chan
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/6079c1539b05aa0007a57495/subtitle/pt/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=bc088b0f-e54e-4109-b20f-b27e98d7ed92&deviceVersion=81.0.4044&appVersion=5.106.0-f3e2ac48d1dbe8189dc784777108b725b4be6be2&deviceType=web&deviceMake=chrome&sid=0874e6e6-4cd2-11ec-aa31-0242ac110003&advertisingId=&deviceLat=-2.444&deviceLon=-54.7146&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI2YTY3YjhjLWJkZDEtNGEwMC1hMWZhLWE4MTU3NTY5YTI0ZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwODc0ZTZlNi00Y2QyLTExZWMtYWEzMS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjEzOC45NC4zNy4yMzkiLCJjaXR5IjoiU2FudGFyw6ltIiwicG9zdGFsQ29kZSI6IiIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0yLjQ0NCwiZGV2aWNlTG9uIjotNTQuNzE0NiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiODEuMC40MDQ0IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNi4wLWYzZTJhYzQ4ZDFkYmU4MTg5ZGM3ODQ3NzcxMDhiNzI1YjRiZTZiZTIiLCJjbGllbnRJRCI6ImJjMDg4YjBmLWU1NGUtNDEwOS1iMjBmLWIyN2U5OGQ3ZWQ5MiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL1NhbnRhcmVtIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTYzNzc1MTM1MSwianRpIjoiZmU0YWE3ZjEtN2I2Yy00OTBkLTg0YTYtNTMzYTA2MWFjMGNhIiwiaWF0IjoxNjM3NzIyNTUxLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6QlI6WW1Nd09EaGlNR1l0WlRVMFpTMDBNVEE1TFdJeU1HWXRZakkzWlRrNFpEZGxaRGt5In0.ywGElb_Kl0yeItowrBasMUS15pbb7MQXnIBduCRz0kg
 
-#EXTINF:-1 tvg-logo="https://vizer.tv/content/series/posterPt/342/4810.webp" group-title="SÉRIES",THE BOYS TEMP1
-#EXTINF:-1 tvg-logo="https://vizer.tv/content/series/posterPt/342/4810.webp" group-title="SÉRIES",THE BOYS TEMP1°
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/kkTDZCNh48q9VKGz8" group-title="CANAIS PLUTO",Pluto TV Record News
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/6102e04e9ab1db0007a980a1livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=bc088b0f-e54e-4109-b20f-b27e98d7ed92&deviceVersion=81.0.4044&appVersion=5.106.0-f3e2ac48d1dbe8189dc784777108b725b4be6be2&deviceType=web&deviceMake=chrome&sid=add6c717-4ccf-11ec-b6bf-0242ac110003&advertisingId=&deviceLat=-2.444&deviceLon=-54.7146&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI2YTY3YjhjLWJkZDEtNGEwMC1hMWZhLWE4MTU3NTY5YTI0ZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhZGQ2YzcxNy00Y2NmLTExZWMtYjZiZi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjEzOC45NC4zNy4yMzkiLCJjaXR5IjoiU2FudGFyw6ltIiwicG9zdGFsQ29kZSI6IiIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0yLjQ0NCwiZGV2aWNlTG9uIjotNTQuNzE0NiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiODEuMC40MDQ0IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNi4wLWYzZTJhYzQ4ZDFkYmU4MTg5ZGM3ODQ3NzcxMDhiNzI1YjRiZTZiZTIiLCJjbGllbnRJRCI6ImJjMDg4YjBmLWU1NGUtNDEwOS1iMjBmLWIyN2U5OGQ3ZWQ5MiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL1NhbnRhcmVtIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTYzNzc1MDM0MCwianRpIjoiODk3MDVkYjMtOTdiOC00NGU3LTllMWQtZjQ2YmQwM2JmMGFmIiwiaWF0IjoxNjM3NzIxNTQwLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6QlI6WW1Nd09EaGlNR1l0WlRVMFpTMDBNVEE1TFdJeU1HWXRZakkzWlRrNFpEZGxaRGt5In0.GMHTlIH_9TvvmibyZwrs8H4-9nDhPGNxrp7OeTr9ueU
 
-#EXTINF:-1 tvg-logo="https://vizer.tv/content/series/posterPt/342/4810.webp" group-title="SÉRIES",THE BOYS TEMP1
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/kkTDZCNh48q9VKGz8" group-title="CANAIS PLUTO",O Encantador de Cães
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/609ae66b359b270007869ff1/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=bc088b0f-e54e-4109-b20f-b27e98d7ed92&deviceVersion=81.0.4044&appVersion=5.106.0-f3e2ac48d1dbe8189dc784777108b725b4be6be2&deviceType=web&deviceMake=chrome&sid=add6c717-4ccf-11ec-b6bf-0242ac110003&advertisingId=&deviceLat=-2.444&deviceLon=-54.7146&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI2YTY3YjhjLWJkZDEtNGEwMC1hMWZhLWE4MTU3NTY5YTI0ZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhZGQ2YzcxNy00Y2NmLTExZWMtYjZiZi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjEzOC45NC4zNy4yMzkiLCJjaXR5IjoiU2FudGFyw6ltIiwicG9zdGFsQ29kZSI6IiIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0yLjQ0NCwiZGV2aWNlTG9uIjotNTQuNzE0NiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiODEuMC40MDQ0IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNi4wLWYzZTJhYzQ4ZDFkYmU4MTg5ZGM3ODQ3NzcxMDhiNzI1YjRiZTZiZTIiLCJjbGllbnRJRCI6ImJjMDg4YjBmLWU1NGUtNDEwOS1iMjBmLWIyN2U5OGQ3ZWQ5MiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL1NhbnRhcmVtIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTYzNzc1MDM0MCwianRpIjoiODk3MDVkYjMtOTdiOC00NGU3LTllMWQtZjQ2YmQwM2JmMGFmIiwiaWF0IjoxNjM3NzIxNTQwLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6QlI6WW1Nd09EaGlNR1l0WlRVMFpTMDBNVEE1TFdJeU1HWXRZakkzWlRrNFpEZGxaRGt5In0.GMHTlIH_9TvvmibyZwrs8H4-9nDhPGNxrp7OeTr9ueU
 
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-#EXTINF:-1 tvg-logo="" group-title="",
-
-
-
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/kkTDZCNh48q9VKGz8" group-title="CANAIS PLUTO",Comedy Central South Park
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/609ae66b359b270007869ff1/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=bc088b0f-e54e-4109-b20f-b27e98d7ed92&deviceVersion=81.0.4044&appVersion=5.106.0-f3e2ac48d1dbe8189dc784777108b725b4be6be2&deviceType=web&deviceMake=chrome&sid=add6c717-4ccf-11ec-b6bf-0242ac110003&advertisingId=&deviceLat=-2.444&deviceLon=-54.7146&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImI2YTY3YjhjLWJkZDEtNGEwMC1hMWZhLWE4MTU3NTY5YTI0ZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhZGQ2YzcxNy00Y2NmLTExZWMtYjZiZi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJU
 
 
 
