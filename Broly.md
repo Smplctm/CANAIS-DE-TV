@@ -2,8 +2,8 @@
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w2138142281.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES LANÇAMENTOS",VENOM
-https://s11.pandafiles.com:183/d/7i3whuo326kwoyapjsfkepg7nryrsg2mrx6uab7tn3fd5fzsomhmvzwmsksegpoca7v3uytc/video.mp4
-
+#EXTINF:-1 tvg-logo="" group-title="FILMES LANÇAMENTOS",VENOM
+https://s11.pandafiles.com:183/d/7i3whuo326kwoyapjsfkepg7nryrsg2mrx6uab7tn3fdegc4uepanfiobxwqyeauistlore6/video.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c5BNvOF.jpg" group-title="FILMES LANÇAMENTOS",SHANG CHI
 https://s3.pandafiles.com:183/d/7u3s6bo326kwoyapj2fly2weny5cnczzh7odofetedza3tnmma2heeywh4ukrc5j2npcdogu/video.mp4
 
